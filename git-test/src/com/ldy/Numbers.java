@@ -5,7 +5,7 @@ package com.ldy;
  */
 public class Numbers {
 
-    int number[] = { -1, 0, 5, 9, 20 };
+    int number[] = { -1, 0, 5, 9, 20, 45, 100 };
 
     public void showNumbers() {
         System.out.println("Data:");
