@@ -1,7 +1,7 @@
 package com.ldy;
 
 /**
- * Sum valuse
+ * Sum valuse 
  */
 public class Numbers {
 
